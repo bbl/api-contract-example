@@ -1,0 +1,2 @@
+# Mark generated files so GitHub collapses them in pull requests
+generated/** linguist-generated=true -diff
